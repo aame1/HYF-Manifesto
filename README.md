@@ -21,4 +21,9 @@ _A Manifesto for the Core Values of Hack Your Future_
 
 
 
+<br>
+<br>
+<br>
+
+
 > !!! Please, feel free to add your own and modify the look and feels of the this markdown. :) 
