@@ -18,3 +18,7 @@ _A Manifesto for the Core Values of Hack Your Future_
 ### 6. Information sharing --> dont retain information
 
 ### 7. Kindness and empathy
+
+
+
+> !!! Please, feel free to add your own and modify the look and feels of the this markdown. :) 
