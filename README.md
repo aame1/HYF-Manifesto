@@ -5,7 +5,9 @@ _A Manifesto for the Core Values of Hack Your Future_
 
 ### 1. Productivity
 
-
+- Managing time 
+- Committing the 25 hours required to do things properly. 
+- Asking for help when getting stuck 
 
 ### 2. Self Study
 
